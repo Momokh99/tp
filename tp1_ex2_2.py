@@ -1,0 +1,8 @@
+print(5 == 5.0)
+print(10 != 10)
+print("abc" < "abc")
+print(3>2 and 1>5)
+print(3>2 or 1>5)
+print(not True)
+print(not (5>3))
+print(True or False and False)
