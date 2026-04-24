@@ -1,0 +1,10 @@
+.vscode/
+.env
+*.local
+*.o
+venv/
+.venv/
+__pycache__/
+
+*.exe
+*.zip
