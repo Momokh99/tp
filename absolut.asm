@@ -2,7 +2,6 @@ section .bss
     buffer resb 16
 section .text
 global _start
-
 _start:
     ;read
     mov rax, 0
