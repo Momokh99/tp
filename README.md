@@ -29,6 +29,4 @@ python3 python/file.py
 lua file.lua
 ```
 
-## License
 
-MIT
